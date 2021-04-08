@@ -1,3 +1,10 @@
-.tabs {
+body {
+    margin:auto;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
 
+h1 {
+    position: relative;
+    top: 100px;
 }
